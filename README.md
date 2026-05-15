@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I'm Shyma  👋
+
+I’m a Data Science & AI student with a background in Pharmacovigilance and Data Analysis, passionate about transforming complex data into meaningful insights.
+Currently exploring machine learning, analytics, and AI-driven solutions while building projects that combine healthcare knowledge with data science.
+Interested in data visualization, predictive modeling, and solving real-world problems through technology. Always learning, building, and open to collaboration on impactful projects.
 
 <!--
 **ShymaShameer/ShymaShameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
